@@ -1,5 +1,7 @@
 VPC
 
+![vpc diagram](../media/vpc-high-level.png)
+
 ## Virtual Private Cloud
 
 Virtual data centre in the cloud, that lets you provision a logically isolated section of AWS. 
